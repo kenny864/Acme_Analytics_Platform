@@ -1,4 +1,4 @@
-# Acme_02_Terraform_AWS_Network_Foundation
+# Acme_Analytics_Platform
 
 > A production-inspired AWS Cloud Engineering portfolio demonstrating how a fictional startup's cloud infrastructure evolves from a single Terraform deployment into a scalable, secure, and automated platform.
 
