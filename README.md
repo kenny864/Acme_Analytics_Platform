@@ -1,9 +1,5 @@
 # Acme_Analytics_Platform
 
-> A production-inspired AWS Cloud Engineering portfolio demonstrating how a fictional startup's cloud infrastructure evolves from a single Terraform deployment into a scalable, secure, and automated platform.
-
----
-
 ## Overview
 
 **Acme Analytics** is a fictional SaaS startup that provides data analytics solutions to business customers.
@@ -91,20 +87,20 @@ Amazon EKS Kubernetes Platform
 
 # Repository Roadmap
 
-| Project                          | Repository                        | Status     |
-| -------------------------------- | --------------------------------- | ---------- |
-| IAM User Provisioning            | terraform-acme-iam-provisioning   | ✅ Complete |
-| Network Foundation               | terraform-acme-network-foundation | ⏳ Planned  |
-| Static Website                   | terraform-acme-static-website     | ⏳ Planned  |
-| Three-Tier Application           | terraform-acme-three-tier-app     | ⏳ Planned  |
-| Remote Terraform Backend         | terraform-acme-remote-state       | ⏳ Planned  |
-| Terraform Modules                | terraform-acme-modules            | ⏳ Planned  |
-| Multi-Environment Infrastructure | terraform-acme-multi-environment  | ⏳ Planned  |
-| GitHub Actions CI/CD             | terraform-acme-github-actions     | ⏳ Planned  |
-| Amazon ECS on AWS Fargate        | terraform-acme-ecs-fargate        | ⏳ Planned  |
-| Serverless Customer API          | terraform-acme-serverless-api     | ⏳ Planned  |
-| Monitoring & Alerting            | terraform-acme-monitoring         | ⏳ Planned  |
-| Amazon EKS Platform              | terraform-acme-eks-platform       | ⏳ Planned  |
+| Project                          | Repository                                                         | Status     |
+| -------------------------------- | ------------------------------------------------------------------ | ---------- |
+| IAM User Provisioning            | [Acme_01_Terraform_AWS_IAM_Provisioning](https://github.com/kenny864/Acme_01_Terraform_AWS_IAM_Provisioning) | ✅ Complete |
+| Network Foundation               | terraform-acme-network-foundation                                  | ⏳ Planned  |
+| Static Website                   | terraform-acme-static-website                                      | ⏳ Planned  |
+| Three-Tier Application           | terraform-acme-three-tier-app                                      | ⏳ Planned  |
+| Remote Terraform Backend         | terraform-acme-remote-state                                        | ⏳ Planned  |
+| Terraform Modules                | terraform-acme-modules                                             | ⏳ Planned  |
+| Multi-Environment Infrastructure | terraform-acme-multi-environment                                   | ⏳ Planned  |
+| GitHub Actions CI/CD             | terraform-acme-github-actions                                      | ⏳ Planned  |
+| Amazon ECS on AWS Fargate        | terraform-acme-ecs-fargate                                         | ⏳ Planned  |
+| Serverless Customer API          | terraform-acme-serverless-api                                      | ⏳ Planned  |
+| Monitoring & Alerting            | terraform-acme-monitoring                                          | ⏳ Planned  |
+| Amazon EKS Platform              | terraform-acme-eks-platform                                        | ⏳ Planned  |
 
 ---
 
