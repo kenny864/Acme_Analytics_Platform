@@ -1,4 +1,4 @@
-# Acme_Analytics_Platform
+# Acme Analytics Platform
 
 ## Overview
 
